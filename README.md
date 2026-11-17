@@ -1,5 +1,5 @@
 _Kopieer en plak hier jouw README.md uit sprint 1._
-<h3> Maandag 11 november | Checkout </h3>
+<h3> Maandag 9 november | Checkout </h3>
 <b>Wat is een source hosting platform is
 en voor welke heb jij gekozen?</b>
 <p> Een source hosting platform is een digitale plek om code op te slaan. Ik heb zelf voor Github gekozen omdat dat werd aangeraden in de les </p>
@@ -13,3 +13,5 @@ pagina maken en hoe zorg je er voor
 dat die op het web gepubliceerd
 worden?</b>
 <p>Het word gepubliceerd door de aanpassingen die ik in de code heb gemaakt te committen.</p>
+
+<h3> Woensdag 11 november </h3>
