@@ -1,4 +1,5 @@
 
+
 _Kopieer en plak hier jouw README.md uit sprint 1._
 <h3>Maandag 9 november | Checkout </h3>
 
@@ -95,12 +96,17 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <p>Ik heb me vandaag beziggehouden met de mee type documenten van het practicum </p>
 <p><b>CSS kleuren:</b> Van deze opdracht heb ik veel geleerd over de verschillende manieren waarop je kleur kan toevoegen in CSS</p>
 <img width="2172" height="1085" alt="Screenshot 2026-11-19 203743" src="https://github.com/user-attachments/assets/0fdbad00-cd37-47dd-a3a4-6d8f08fe5ae4" />
-<p><b>CSS gradients:</b></p>
+<p><b>CSS gradients:</b> Heb hiervan wel meer geleerd over gradients, maar ik vind het toch nog wel een beetje moeilijk </p>
+<img width="2150" height="978" alt="Screenshot 2026-11-19 232136" src="https://github.com/user-attachments/assets/6f076a12-8a09-40a7-94d2-ee75cba8ed6a" />
+<p><b>CSS mooie gradients:</b></p>
+<img width="937" height="858" alt="Screenshot 2026-11-20 064602" src="https://github.com/user-attachments/assets/ba05e677-9a47-4fc7-88a4-3f16f4923d05" />
 
 ------------
 
 <h3>Donderdag 19 november</h3>
 
-
 ------------
 
+<b> Practicum mooie kleuren en gradients (deel 2) </b>
+<p>Vandaag ben ik verder gegaan met de opdrachten uit de practicum</p>
+<p><b>Oefening 1:</b></p>
