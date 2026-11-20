@@ -109,4 +109,6 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 
 <b> Practicum mooie kleuren en gradients (deel 2) </b>
 <p>Vandaag ben ik verder gegaan met de opdrachten uit de practicum</p>
-<p><b>Oefening 1:</b></p>
+<p><b>Oefening 1:</b> Ik vond de latere sommetjes van deze opdracht best moeilijk, maar door af en toe naar de uitwerkingen te kijken heeft me veel geholpen. </p>
+<img width="1492" height="748" alt="Screenshot 2026-11-20 112827" src="https://github.com/user-attachments/assets/b7b03c30-ea8f-4a6f-8c2b-c35b83202cca" />
+<p><b>Oefening 2:</b></p>
