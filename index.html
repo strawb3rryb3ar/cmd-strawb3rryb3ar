@@ -17,28 +17,32 @@
     ></script>
   </head>
   <body>
+    <picture>
+      <source
+      srcset="images/background-dark.png"
+      media="(prefers-color-scheme: dark)"/>
+      <img class="background"
+      src="images/background-light.png"/>
+    </picture>
     <header>
-      <h1>strawb3rryb3ar</h1>
+      <h1>strawb3rry b3ar</h1>
       <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="https://github.com/account/repo">Learning Log</a></li>
-        </ul>
+        <a href="index.html">Home</a></li>
+        <a href="https://github.com/account/repo">Learning Log</a></li>
+        
       </nav>
     </header>
 
     <main>
       <nav>
-        <ul>
+        <ul class="no-bullets">
           <li>
             <img src="images/sona.png" alt="persona" />
-            <img src="images/flower 1.png" alt="blue flower" />
-            <img src="images/flower 2.png" alt="creepy flower" />
+            <img src="images/flower1-light.png" alt="blue flower" />
+            <img src="images/flower2-light.png" alt="creepy flower" />
           </li>
         </ul>
       </nav>
     </main>
-
-    <footer></footer>
   </body>
 </html>
