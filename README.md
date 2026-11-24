@@ -1,6 +1,7 @@
-
-_Kopieer en plak hier jouw README.md uit sprint 1._
 <h3>Maandag 9 november | Checkout </h3>
+
+------------
+
 <b>Wat is een source hosting platform is
 en voor welke heb jij gekozen?</b>
 <p> Een source hosting platform is een digitale plek om code op te slaan. Ik heb zelf voor Github gekozen omdat dat werd aangeraden in de les </p>
@@ -16,20 +17,151 @@ worden?</b>
 <p>Het word gepubliceerd door de aanpassingen die ik in de code heb gemaakt te committen.</p>
 
 <h3>Woensdag 11 november </h3>
+
+------------
+
 <b>Interactie</b>
-<p>ik moet hier nog tekst toevoegen....</p>
+<p>De opdracht was om een bruikbaar, online formulier van het Wok to Walk menu voor middelgrote schermen. IK heb hem in figma uitgewerkt omdat ik daar snel en gemakkelijk in kan werken. 
+Ik heb inspiratie genomen van bestelzuilen. </p>
 <img width="742" height="771" alt="Screenshot 2026-11-17 143008" src="https://github.com/user-attachments/assets/f17dfcb7-8234-42d4-8b22-4ab033374c3a" />
 
-<b>Schetsen<b/>
-<p>ik moet nog fotos maken...<p/>
+------------
+
+<b>Schetsen</b>
+
+
+<img width="200" height="150" alt="lijntjes schets" src="https://github.com/user-attachments/assets/860822d5-9742-4124-a570-5cf09d67733f" />
+<img width="200" height="150" alt="IMG_2943" src="https://github.com/user-attachments/assets/73511fa4-3b4e-43bd-9862-96642904c271" />
+<img width="150" height="200" alt="IMG_2941" src="https://github.com/user-attachments/assets/f72ead32-be7e-441e-a85f-9da49fd74157" />
+
+
 
 <h3>Vrijdag 13 november </h3>
 
-<b>Practische CSS<b/>
 
-<b>CSS: fonts met kleur en effecter<b/>
+------------
+
+<b>Practische CSS</b>
+<p>Met deze opdracht leerde we hoe was een lelijke website een iets mooiere website kunnen maken. Ik vond deze opdracht fijn om te doen omdat ik veel code van vorige jaar al weer een beetje was vergeten dus dit was een fijn stukje herhaling.</p>
+<img width="400" height="200" alt="Screenshot 2026-11-19 152646" src="https://github.com/user-attachments/assets/760a18b0-c7fd-4f42-a74d-45ef28e8522d" />
+
+------------
+
+<b>CSS: fonts met kleur en effecten</b>
+
+<p><b>Oefening 1:</b> Bij deze opdracht moesten we doormiddel van CSS zorgen dat de tekst op die van het voorbeeld leek. Dit ging me vrij gemakkelijk af.</p>
 <img width="1917" height="1015" alt="Screenshot 2026-11-13 122022" src="https://github.com/user-attachments/assets/38fdfc88-8dc6-4f55-aa90-210cc598a791" />
+<p><b>Oefening 2:</b> Ook bij deze opdracht moesten we de voorbeelden met CSS namaken. Ik vond dit wel een stukje moeilijker dan de opdracht hiervoor, maar ik denk dat hij best goed is gelukt. Ik heb hiervan al een stuk meer mogelijkheden met CSS geleerd.</p>
+<img width="1821" height="950" alt="Screenshot 2026-11-24 161605" src="https://github.com/user-attachments/assets/007caf58-aa83-41b6-ae5b-f72ead9443bb" />
+
+
 
 <h3>Maandag 16 november</h3>
 
+------------
+
+<p><b>Website analyse:</b> Bij deze opdracht moesten we kijken naar andere digital garden en invullen hoe webby waren. Hier heb ik een beter idee van gekregen wat ik wel met mijn digital garden wil doen en wat ik er niet mee wil doen. </p>
+<img width="1846" height="1179" alt="IMG_2946" src="https://github.com/user-attachments/assets/8bc28ef7-987a-4248-bfd0-515546b9035a" />
+
+<p><b>Checkout:</b></p>
+<b>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</b>
+<p> Een Digital garden is een persoonlijke online plek, net zoals een echte tuin is je digitale garden altijd aan het groeien, hij is nooit af. Ook in tegenstelling tot normale websites staat niks op chronologische volgorde. </p>
+<b>Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.</b>
+<p>"Webby" houd in hoe een site er uit ziet en of het geschikt is voor het web. De websites die mij het meest inspireren zijn websites met veel interactieve elementen.</p>
+<b>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.</b>
+<p> Voor mijn digital garden wil ik iets met mijn tekeningen doen of met mijn interesses.</p>
+
+
 <h3>Dinsdag 17 november</h3>
+
+------------
+
+<b>Practicum: Light and Dark theme</b>
+<p><b>Oefening 1:</b>Ik heb heel veel aan deze opdrachten gehad, ik snap nu hoe 'custom proporties' werken en hoe 'Light-dark()' werkt. </p>
+<img width="932" height="851" alt="Screenshot 2026-11-17 232752" src="https://github.com/user-attachments/assets/da167903-f414-4a06-bbea-e790c8094259" />
+<img width="938" height="867" alt="Screenshot 2026-11-17 232717" src="https://github.com/user-attachments/assets/36c160dd-7f1b-44fb-99e1-90db017258c4" />
+<p><b>Oefening 2:</b> Voor opdracht 2 geld eigenlijk hetzelfde als wat ik opdracht 1 had gezegd.</p>
+<img width="1911" height="788" alt="Screenshot 2026-11-19 155021" src="https://github.com/user-attachments/assets/c6e13d04-5915-416e-b12d-b946572c7f25" />
+<img width="1917" height="795" alt="Screenshot 2026-11-19 155136" src="https://github.com/user-attachments/assets/4341053e-2ed6-434d-9d13-465bedba11e8" />
+
+
+------------
+
+<b>Presentatie voorbereidden</b>
+<p>Ik wist niet precies hoe ik de [presentatie moest formatteren maar ik heb wel 50 foto's
+ uitgekozen gebaseerd op mijn intresses. De eerste bestaat uit mijn interesse en de tweede uit mijn hobby, tekenen.
+Ik wil uiteindelijk dat het onderwerp van mijn digital garden tekening is omdat daar mijn passie ligt.</p>
+<img width="1863" height="981" alt="Screenshot 2026-11-19 210148" src="https://github.com/user-attachments/assets/f8753483-cc18-4c56-9700-0d9648a32de4" />
+<img width="957" height="742" alt="Screenshot 2026-11-19 211604" src="https://github.com/user-attachments/assets/d49efc8f-338e-4b63-ba51-aef0dcc4c136" />
+
+<h3>Woensdag 18 november</h3>
+
+------------
+
+<b>Visual Research</b>
+<p>In de les hebben we ons beziggehouden met Visual Research, hierdoor heb ik een duidelijker beeld gekregen over hoe ik wil dat mijn site er uit gaat zien.
+Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje perfectionistisch en daarom sloeg ik helemaal dicht. Ik heb toen met Charley besproken dat ik een pixel font ga houden met pastel kleuren.</p>
+<img width="772" height="1072" alt="Screenshot 2026-11-19 212422" src="https://github.com/user-attachments/assets/7b3a116c-ef4f-46a7-9f98-40eec52aab77" />
+<img width="867" height="721" alt="Screenshot 2026-11-19 214142" src="https://github.com/user-attachments/assets/fb991996-5323-4c78-9670-8b4cc1b70ec1" />
+
+------------
+
+<b> Practicum mooie kleuren en gradients (deel 1) </b>
+<p>Ik heb me vandaag beziggehouden met de mee type documenten van het practicum </p>
+<p><b>CSS kleuren:</b> Van deze opdracht heb ik veel geleerd over de verschillende manieren waarop je kleur kan toevoegen in CSS</p>
+<img width="2172" height="1085" alt="Screenshot 2026-11-19 203743" src="https://github.com/user-attachments/assets/0fdbad00-cd37-47dd-a3a4-6d8f08fe5ae4" />
+<p><b>CSS gradients:</b> Heb hiervan wel meer geleerd over gradients, maar ik vind het toch nog wel een beetje moeilijk </p>
+<img width="2150" height="978" alt="Screenshot 2026-11-19 232136" src="https://github.com/user-attachments/assets/6f076a12-8a09-40a7-94d2-ee75cba8ed6a" />
+<p><b>CSS mooie gradients:</b></p>
+<img width="937" height="858" alt="Screenshot 2026-11-20 064602" src="https://github.com/user-attachments/assets/ba05e677-9a47-4fc7-88a4-3f16f4923d05" />
+
+------------
+
+<p><b>Checkout</b></p>
+<b>Leg uit waar het Visual Research in 3 stappen naartoe werkt</b>
+<p>Visual Research helpt door je inspiratie steeds abstracter te maken, dat je op je eigen persoonlijke uitstraling komt van je website, met lettertypes, vormen en ook en feel. (ik weet niet helemaal hoe ik dit goed moet verwoorden.)</p>
+<b>Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+</b>
+<p>Met mijn digitale garden wil ik een eigen wereldje maken waar ik mijn tekeningen man delen. En een beetje over mijn interesses praat. Ik ben van plan om vooral een visuele website te maken, met veel elementen die ik dan zelf heb getekend. </p>
+<b>Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.</b>
+<p>n.v.t aangezien ik vooralsnog geen crazy 8 heb.</p>
+
+
+------------
+
+
+
+<h3>Donderdag 19 november</h3>
+
+------------
+
+<b> Practicum mooie kleuren en gradients (deel 2) </b>
+<p>Vandaag ben ik verder gegaan met de opdrachten uit de practicum</p>
+<p><b>Oefening 1:</b> Ik vond de latere sommetjes van deze opdracht best moeilijk, maar door af en toe naar de uitwerkingen te kijken heeft me veel geholpen. </p>
+<img width="1492" height="748" alt="Screenshot 2026-11-20 112827" src="https://github.com/user-attachments/assets/b7b03c30-ea8f-4a6f-8c2b-c35b83202cca" />
+<p><b>Oefening 2:</b></p>
+
+------------
+
+<p><b>Mobile first schetsen</b></p>
+
+
+------------
+
+<p><b>Mini Style-guide</b></p>
+
+
+------------
+
+
+<h3>Vrijdag 20 november</h3>
+
+------------
+
+<h3>Maandag 23 november</h3>
+
+------------
+
+<h3>Dinsdag 24 november</h3>
+
+------------
