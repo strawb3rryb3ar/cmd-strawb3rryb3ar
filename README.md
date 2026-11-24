@@ -1,6 +1,3 @@
-
-
-_Kopieer en plak hier jouw README.md uit sprint 1._
 <h3>Maandag 9 november | Checkout </h3>
 
 ------------
@@ -31,15 +28,22 @@ Ik heb inspiratie genomen van bestelzuilen. </p>
 ------------
 
 <b>Schetsen</b>
-<p>ik moet nog fotos maken...</p>
+
+
+<img width="200" height="150" alt="lijntjes schets" src="https://github.com/user-attachments/assets/860822d5-9742-4124-a570-5cf09d67733f" />
+<img width="200" height="150" alt="IMG_2943" src="https://github.com/user-attachments/assets/73511fa4-3b4e-43bd-9862-96642904c271" />
+<img width="150" height="200" alt="IMG_2941" src="https://github.com/user-attachments/assets/f72ead32-be7e-441e-a85f-9da49fd74157" />
+
+
 
 <h3>Vrijdag 13 november </h3>
+
 
 ------------
 
 <b>Practische CSS</b>
 <p>Met deze opdracht leerde we hoe was een lelijke website een iets mooiere website kunnen maken. Ik vond deze opdracht fijn om te doen omdat ik veel code van vorige jaar al weer een beetje was vergeten dus dit was een fijn stukje herhaling.</p>
-<img width="1837" height="753" alt="Screenshot 2026-11-19 152646" src="https://github.com/user-attachments/assets/760a18b0-c7fd-4f42-a74d-45ef28e8522d" />
+<img width="400" height="200" alt="Screenshot 2026-11-19 152646" src="https://github.com/user-attachments/assets/760a18b0-c7fd-4f42-a74d-45ef28e8522d" />
 
 ------------
 
@@ -47,15 +51,25 @@ Ik heb inspiratie genomen van bestelzuilen. </p>
 
 <p><b>Oefening 1:</b> Bij deze opdracht moesten we doormiddel van CSS zorgen dat de tekst op die van het voorbeeld leek. Dit ging me vrij gemakkelijk af.</p>
 <img width="1917" height="1015" alt="Screenshot 2026-11-13 122022" src="https://github.com/user-attachments/assets/38fdfc88-8dc6-4f55-aa90-210cc598a791" />
-<p><b>Oefening 2:</b> Ook bij deze opdracht moesten we de voorbeelden met CSS namaken. Ik vond dit wel een stukje moeilijker dan de opdracht hiervoor, maar ik denk dat hij best goed is gelukt. Ik heb hiervan al een stuk meer mogelijkheden met CSS geleerd. (foto volgt nog)</p>
-<p><b>Oefening 3:</b> opdracht 3 volgt nog...</p>
+<p><b>Oefening 2:</b> Ook bij deze opdracht moesten we de voorbeelden met CSS namaken. Ik vond dit wel een stukje moeilijker dan de opdracht hiervoor, maar ik denk dat hij best goed is gelukt. Ik heb hiervan al een stuk meer mogelijkheden met CSS geleerd.</p>
+<img width="1821" height="950" alt="Screenshot 2026-11-24 161605" src="https://github.com/user-attachments/assets/007caf58-aa83-41b6-ae5b-f72ead9443bb" />
+
 
 
 <h3>Maandag 16 november</h3>
 
 ------------
 
-<p>Moet ik nog invullen (checkout/website analyse)</p>
+<p><b>Website analyse:</b> Bij deze opdracht moesten we kijken naar andere digital garden en invullen hoe webby waren. Hier heb ik een beter idee van gekregen wat ik wel met mijn digital garden wil doen en wat ik er niet mee wil doen. </p>
+<img width="1846" height="1179" alt="IMG_2946" src="https://github.com/user-attachments/assets/8bc28ef7-987a-4248-bfd0-515546b9035a" />
+
+<p><b>Checkout:</b></p>
+<b>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</b>
+<p> Een Digital garden is een persoonlijke online plek, net zoals een echte tuin is je digitale garden altijd aan het groeien, hij is nooit af. Ook in tegenstelling tot normale websites staat niks op chronologische volgorde. </p>
+<b>Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.</b>
+<p>"Webby" houd in hoe een site er uit ziet en of het geschikt is voor het web. De websites die mij het meest inspireren zijn websites met veel interactieve elementen.</p>
+<b>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.</b>
+<p> Voor mijn digital garden wil ik iets met mijn tekeningen doen of met mijn interesses.</p>
 
 
 <h3>Dinsdag 17 november</h3>
@@ -69,7 +83,7 @@ Ik heb inspiratie genomen van bestelzuilen. </p>
 <p><b>Oefening 2:</b> Voor opdracht 2 geld eigenlijk hetzelfde als wat ik opdracht 1 had gezegd.</p>
 <img width="1911" height="788" alt="Screenshot 2026-11-19 155021" src="https://github.com/user-attachments/assets/c6e13d04-5915-416e-b12d-b946572c7f25" />
 <img width="1917" height="795" alt="Screenshot 2026-11-19 155136" src="https://github.com/user-attachments/assets/4341053e-2ed6-434d-9d13-465bedba11e8" />
-<p><b>Oefening 3:</b> Opdracht 3 volgt nog...</p>
+
 
 ------------
 
@@ -103,6 +117,20 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 
 ------------
 
+<p><b>Checkout</b></p>
+<b>Leg uit waar het Visual Research in 3 stappen naartoe werkt</b>
+<p>Visual Research helpt door je inspiratie steeds abstracter te maken, dat je op je eigen persoonlijke uitstraling komt van je website, met lettertypes, vormen en ook en feel. (ik weet niet helemaal hoe ik dit goed moet verwoorden.)</p>
+<b>Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+</b>
+<p>Met mijn digitale garden wil ik een eigen wereldje maken waar ik mijn tekeningen man delen. En een beetje over mijn interesses praat. Ik ben van plan om vooral een visuele website te maken, met veel elementen die ik dan zelf heb getekend. </p>
+<b>Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.</b>
+<p>n.v.t aangezien ik vooralsnog geen crazy 8 heb.</p>
+
+
+------------
+
+
+
 <h3>Donderdag 19 november</h3>
 
 ------------
@@ -112,3 +140,28 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <p><b>Oefening 1:</b> Ik vond de latere sommetjes van deze opdracht best moeilijk, maar door af en toe naar de uitwerkingen te kijken heeft me veel geholpen. </p>
 <img width="1492" height="748" alt="Screenshot 2026-11-20 112827" src="https://github.com/user-attachments/assets/b7b03c30-ea8f-4a6f-8c2b-c35b83202cca" />
 <p><b>Oefening 2:</b></p>
+
+------------
+
+<p><b>Mobile first schetsen</b></p>
+
+
+------------
+
+<p><b>Mini Style-guide</b></p>
+
+
+------------
+
+
+<h3>Vrijdag 20 november</h3>
+
+------------
+
+<h3>Maandag 23 november</h3>
+
+------------
+
+<h3>Dinsdag 24 november</h3>
+
+------------
