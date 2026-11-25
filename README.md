@@ -165,3 +165,18 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <h3>Dinsdag 24 november</h3>
 
 ------------
+<p><b>website maken:</b>Ik heb geprobeerd light en dark mode toe te voegen aan mijn website bij de afbeeldingen die ik heb gemaakt. Dit heb ik gedaan door de stappen van oefening 3 van het practicum light en dark toe te passen. Het was me alleen niet gelukt om het gras als achtergrond instellen.
+ </p>
+ <img width="158" height="68" alt="Screenshot 2026-11-25 003444" src="https://github.com/user-attachments/assets/cc35c000-4694-47d5-97d2-b6155a1f7205" />
+ <img width="149" height="50" alt="Screenshot 2026-11-25 001215" src="https://github.com/user-attachments/assets/c39d5944-2071-4379-b2a5-64043e04caf8" />
+
+ ------------
+
+
+<h3>Woensdag 25 november</h3>
+
+ ------------
+
+ <p><b>Dark mode digital garden:</b>Door uitleg is het me nu gelukt om het als achtergrond in te stellen. Verder heb ik dark mode versies gemaakt voor al mijn illustraties (tot nu toe) ik ben alleen nog niet helemaal blij met de kleuren keuzes dus van sommige dingen ga ik de dark mode nog aanpassen. </p>
+<img width="1917" height="927" alt="Screenshot 2026-11-25 120202" src="https://github.com/user-attachments/assets/518017d3-b15a-484d-acb1-457e26f87a07" />
+<img width="1917" height="911" alt="Screenshot 2026-11-25 120145" src="https://github.com/user-attachments/assets/dff75c93-e56b-436f-9ab4-69ab53561ed7" >
