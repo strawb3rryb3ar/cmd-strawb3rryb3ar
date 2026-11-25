@@ -38,7 +38,12 @@
         <ul class="no-bullets">
           <li>
             <img src="images/sona.png" alt="persona" />
-            <img src="images/flower1-light.png" alt="blue flower" />
+            <picture>
+             <source
+                 srcset="images/flower1-dark.png"
+                media="(prefers-color-scheme: dark)"/>
+                <img src="images/flower1-light.png"/>
+             </picture>
             <img src="images/flower2-light.png" alt="creepy flower" />
           </li>
         </ul>
