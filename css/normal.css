@@ -33,6 +33,12 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-image: light-dark(
+    url(../images/background-light.png),
+    url(../images/background-dark.png)
+  );
+
+  background-size: cover;
 }
 
 /**************************

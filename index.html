@@ -17,13 +17,7 @@
     ></script>
   </head>
   <body>
-    <picture>
-      <source
-      srcset="images/background-dark.png"
-      media="(prefers-color-scheme: dark)"/>
-      <img class="background"
-      src="images/background-light.png"/>
-    </picture>
+    
     <header>
       <h1>strawb3rry b3ar</h1>
       <nav>
@@ -37,14 +31,25 @@
       <nav>
         <ul class="no-bullets">
           <li>
-            <img src="images/sona.png" alt="persona" />
+            <picture>
+             <source
+                 srcset="images/sona-dark.png"
+                media="(prefers-color-scheme: dark)"/>
+                <img src="images/sona-light.png"/>
+             </picture>
             <picture>
              <source
                  srcset="images/flower1-dark.png"
                 media="(prefers-color-scheme: dark)"/>
                 <img src="images/flower1-light.png"/>
              </picture>
-            <img src="images/flower2-light.png" alt="creepy flower" />
+            <picture>
+             <source
+                 srcset="images/flower2-dark.png"
+                media="(prefers-color-scheme: dark)"/>
+                <img src="images/flower2-light.png"/>
+             </picture>
+          
           </li>
         </ul>
       </nav>
