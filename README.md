@@ -143,12 +143,17 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 
 ------------
 
-<p><b>Mobile first schetsen</b></p>
+<p><b>Mobile first schetsen</b>Hier zijn 4 mobile first schetsen die ik heb gemaakt. Uiteindelijk heb ik er voor gekozen om schets 1 uit te werken.</p>
+<img width="200" height="150" alt="IMG_2963" src="https://github.com/user-attachments/assets/efc5dda7-78ae-46a4-a52e-4cefc2612543" />
+<img width="200" height="150" alt="IMG_2960" src="https://github.com/user-attachments/assets/1a3a01e6-9a0f-4e07-be9e-b9374fa353d8" />
+<img width="200" height="150" alt="IMG_2961" src="https://github.com/user-attachments/assets/43e88652-4867-4565-ab6b-09922e54f81a" />
+<img width="200" height="150" alt="IMG_2962" src="https://github.com/user-attachments/assets/c14db2cc-a7fe-44bb-8ae3-1d7d9bb6eb2c" />
 
 
 ------------
 
-<p><b>Mini Style-guide</b></p>
+<p><b>Mini Style-guide: </b> gebaseerd op mijn visual research heb ik een mini style-guide gemaakt. Over de font stijl ben ik vrijwel zeker allen de kleuren twijfel ik nog over.</p>
+<img width="525" height="220" alt="Screenshot 2026-11-26 143422" src="https://github.com/user-attachments/assets/c0e7fa75-1b45-4d7b-a91a-7de675d371c6" />
 
 
 ------------
@@ -161,6 +166,16 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <h3>Maandag 23 november</h3>
 
 ------------
+
+<p><b>Bi-weekly geek 1:</b> De bi-weekly geek bladen die we tijdens de les hebben ingevuld.</p>
+<img width="200" height="150" alt="IMG_2931" src="https://github.com/user-attachments/assets/0d3679d6-044b-46c8-b2cf-73c51b4fc7a0" />
+<img width="200" height="150" alt="IMG_2932" src="https://github.com/user-attachments/assets/0b6d551f-56b5-441c-a84c-c66846bab2c7" />
+
+------------
+
+<p><b>Checkout</b></p>
+<b>Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?</b>
+
 
 <h3>Dinsdag 24 november</h3>
 
@@ -177,6 +192,16 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 
  ------------
 
- <p><b>Dark mode digital garden:</b>Door uitleg is het me nu gelukt om het als achtergrond in te stellen. Verder heb ik dark mode versies gemaakt voor al mijn illustraties (tot nu toe) ik ben alleen nog niet helemaal blij met de kleuren keuzes dus van sommige dingen ga ik de dark mode nog aanpassen. </p>
+ <p><b>Dark mode digital garden:</b>Door uitleg is het me nu gelukt om het als achtergrond in te stellen. Verder heb ik dark mode versies gemaakt voor al mijn illustraties (tot nu toe) ik ben alleen nog niet helemaal blij met de kleuren keuzes dus van sommige dingen ga ik later de dark mode nog aanpassen. </p>
 <img width="1917" height="927" alt="Screenshot 2026-11-25 120202" src="https://github.com/user-attachments/assets/518017d3-b15a-484d-acb1-457e26f87a07" />
 <img width="1917" height="911" alt="Screenshot 2026-11-25 120145" src="https://github.com/user-attachments/assets/dff75c93-e56b-436f-9ab4-69ab53561ed7" >
+
+
+
+<h3>Donderdag 26 november</h3>
+
+ ------------
+
+ <p><b></b>Ik heb me vandaag eerst bezig gehouden met ervoor zorgen dat mijn plaatjes buttons worden</p>
+ <img width="302" height="218" alt="Screenshot 2026-11-26 141121" src="https://github.com/user-attachments/assets/c328ed21-a430-4275-b7ba-09480ab8fe4d" />
+<img width="217" height="228" alt="Screenshot 2026-11-26 141137" src="https://github.com/user-attachments/assets/58e8ea76-a2f1-4bf2-9646-9df00b70c6cc" />
