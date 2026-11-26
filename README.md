@@ -205,3 +205,10 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
  <p><b></b>Ik heb me vandaag eerst bezig gehouden met ervoor zorgen dat mijn plaatjes buttons worden</p>
  <img width="302" height="218" alt="Screenshot 2026-11-26 141121" src="https://github.com/user-attachments/assets/c328ed21-a430-4275-b7ba-09480ab8fe4d" />
 <img width="217" height="228" alt="Screenshot 2026-11-26 141137" src="https://github.com/user-attachments/assets/58e8ea76-a2f1-4bf2-9646-9df00b70c6cc" />
+<p>Verder wou ik een pop-up maken als je op de knoppen klikt. Na onderzoek doen erna kwam ik er achter dat wat ik bedoelde een pop-over heet, naja zo leer je elke keer weer wat. Ik heb de voorbeelden van W3schools toegevoegd aan mijn code. Ik heb nog wel wat moeite met het aanpassen van de layout van de popover dus die is nog niet heel mooi.</p>
+<img width="355" height="225" alt="Screenshot 2026-11-26 164317" src="https://github.com/user-attachments/assets/4eaef25e-fb7b-4c9f-bf37-98abb6b1fc63" />
+<img width="302" height="221" alt="Screenshot 2026-11-26 212843" src="https://github.com/user-attachments/assets/bc840fde-be4b-4bdd-8daa-8df605e2f99d" />
+<img width="337" height="201" alt="Screenshot 2026-11-26 212825" src="https://github.com/user-attachments/assets/cd7aefbe-913d-4d76-850b-cf5659a662af" />
+<p> Mijn site is helaas nog niet responsive, dus hij werkt niet goed als je op de telefoon zit. Dit moet ik nog aanpassen maar ik kom er niet helemaal uit hoe</p>
+
+
