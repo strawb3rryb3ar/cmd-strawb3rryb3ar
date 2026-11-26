@@ -3,8 +3,8 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "FT88";
+  src: url(../fonts/FT88-Serif.woff);
   font-weight: 400;
   font-style: normal;
 }
@@ -32,7 +32,7 @@ img {
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "FT88", system-ui;
   background-image: light-dark(
     url(../images/background-light.png),
     url(../images/background-dark.png)
@@ -67,15 +67,29 @@ main {
     padding: 0;
   }
 
-  button {
+  .flowers {
     background: none;
     border: none;
     padding: 0;
     cursor: pointer;
   }
 
-  button:hover {
+  .flowers:hover {
     transform: translateY(-10px);
+  }
+
+  [popover] {
+    height: 700px;
+    width: 1000px;
+    border: 4px solid #000000;
+    background: rgb(182, 193, 215);
+    max-width: 1000px;
+    h2 {
+      text-align: left;
+    }
+    img {
+      max-width: 800px;
+    }
   }
 }
 

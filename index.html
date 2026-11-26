@@ -29,7 +29,7 @@
       <nav>
         <ul class="no-bullets">
           <li>
-            <button>
+            <button class="flowers">
               <picture class="persona">
                 <source
                   srcset="images/sona-dark.png"
@@ -40,7 +40,7 @@
             </button>
           </li>
           <li>
-            <button>
+            <button class="flowers">
               <picture>
                 <source
                   srcset="images/flower1-dark.png"
@@ -51,15 +51,26 @@
             </button>
           </li>
           <li>
-            <button>
+            <button popovertarget="creepyart" class="flowers">
               <picture>
                 <source
                   srcset="images/flower2-dark.png"
                   media="(prefers-color-scheme: dark)"
                 />
-                <img src="images/flower2-light.png" />
+                <img
+                  src="images/flower2-light.png"
+                  alt="weird looking flower"
+                />
               </picture>
             </button>
+            <div id="creepyart" popover>
+              <h2>Art gallary</h2>
+              <img src="images/abyssart.PNG" />
+              <p>this is an illustration of...</p>
+              <button popovertarget="creepyart" popovertargetaction="hide">
+                Close
+              </button>
+            </div>
           </li>
         </ul>
       </nav>
