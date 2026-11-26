@@ -40,7 +40,7 @@
             </button>
           </li>
           <li>
-            <button class="flowers">
+            <button popovertarget="blueflower" class="flowers">
               <picture>
                 <source
                   srcset="images/flower1-dark.png"
@@ -49,9 +49,17 @@
                 <img src="images/flower1-light.png" />
               </picture>
             </button>
+             </button>
+            <div id="blueflower" popover>
+              <h2>Art gallary</h2>
+              <img src="images/mizisua.PNG" />
+              <p>this is an illustration of...</p>
+              <button popovertarget="blueflower" popovertargetaction="hide">
+                Close
+              </button>
           </li>
           <li>
-            <button popovertarget="creepyart" class="flowers">
+            <button popovertarget="creepyflower" class="flowers">
               <picture>
                 <source
                   srcset="images/flower2-dark.png"
@@ -63,11 +71,11 @@
                 />
               </picture>
             </button>
-            <div id="creepyart" popover>
+            <div id="creepyflower" popover>
               <h2>Art gallary</h2>
               <img src="images/abyssart.PNG" />
               <p>this is an illustration of...</p>
-              <button popovertarget="creepyart" popovertargetaction="hide">
+              <button popovertarget="creepyflower" popovertargetaction="hide">
                 Close
               </button>
             </div>

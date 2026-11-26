@@ -81,14 +81,21 @@ main {
   [popover] {
     height: 700px;
     width: 1000px;
+    padding: 20px;
     border: 4px solid #000000;
     background: rgb(182, 193, 215);
     max-width: 1000px;
     h2 {
-      text-align: left;
+      text-align: center;
     }
     img {
       max-width: 800px;
+      margin: auto;
+      display: block;
+    }
+
+    button {
+      position: right;
     }
   }
 }
