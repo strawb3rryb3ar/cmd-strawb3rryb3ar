@@ -12,6 +12,13 @@
 /**************************
 * MARK: Custom properties
 **************************/
+html:has([value="light"]:checked) {
+  color-scheme: light;
+}
+
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
+}
 
 html {
   color-scheme: light dark;
