@@ -209,6 +209,10 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <img width="355" height="225" alt="Screenshot 2026-11-26 164317" src="https://github.com/user-attachments/assets/4eaef25e-fb7b-4c9f-bf37-98abb6b1fc63" />
 <img width="302" height="221" alt="Screenshot 2026-11-26 212843" src="https://github.com/user-attachments/assets/bc840fde-be4b-4bdd-8daa-8df605e2f99d" />
 <img width="337" height="201" alt="Screenshot 2026-11-26 212825" src="https://github.com/user-attachments/assets/cd7aefbe-913d-4d76-850b-cf5659a662af" />
+<p>Ik heb geprobeerd een menu te maken waar ik via mijn site de light en dark mode kan aanpassen ipv dat ik helemaal naar instellingen moet elke keer. Ik heb de html en css van de practicum opdrachten gepakt, alleen werkt het niet helemaal. Als ik op de knoppen klik verranderd alleen de achtergrond en niet mijn andere afbeeldingen. Om de afbeeldingen te verranderen moet ik wel naar mijn instellingen gaan. Dit ga ik nog oplossen maar ik weet momenteel nog even niet hoe. Mijn vermoede is dat het komt omdat de achtergrond wel via css is gedaan terwijl de afbeeldingen in html zijn gedaan met het picture element</p>
+<img width="231" height="441" alt="Screenshot 2026-11-27 070856" src="https://github.com/user-attachments/assets/1d037c1b-4cc1-45d7-90a4-ddced6c29959" />
+<img width="302" height="221" alt="Screenshot 2026-11-26 212843" src="https://github.com/user-attachments/assets/fb893919-40b6-4a42-8efa-6226897be30a" />
+<img width="465" height="132" alt="Screenshot 2026-11-27 070940" src="https://github.com/user-attachments/assets/7019285e-5a79-4fcf-b102-78528b84be69" />
 <p> Mijn site is helaas nog niet responsive, dus hij werkt niet goed als je op de telefoon zit. Dit moet ik nog aanpassen maar ik kom er niet helemaal uit hoe</p>
 
 
