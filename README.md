@@ -162,6 +162,20 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 <h3>Vrijdag 20 november</h3>
 
 ------------
+<p><b>Practicum CSS grids:</b></p>
+
+
+------------
+
+
+<p><b>Sprites tekenen:</b> Vandaag ben ik begonnen met het tekenen van de sprites voor mijn website, dit heb ik gedaan met Piskel omdat je daar gemakkelijk pixel art op kan tekenen.</p>
+<img width="225" height="317" alt="Screenshot 2026-11-27 074221" src="https://github.com/user-attachments/assets/9f2dd634-5f0f-40e0-bf85-658a8283ab1d" />
+<img width="202" height="218" alt="Screenshot 2026-11-27 074253" src="https://github.com/user-attachments/assets/8c13beb0-8bcc-430f-9ca7-30091c17da88" />
+<img width="203" height="220" alt="Screenshot 2026-11-27 074233" src="https://github.com/user-attachments/assets/a01c2f98-a83c-4dce-813a-57393bb25b1d" />
+
+------------
+
+<p><b>Checkout:</b></p>
 
 <h3>Maandag 23 november</h3>
 
@@ -173,8 +187,9 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
 
 ------------
 
-<p><b>Checkout</b></p>
-<b>Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?</b>
+<p><b>Checkout:</b></p>
+<b> Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?</b>
+
 
 
 <h3>Dinsdag 24 november</h3>
@@ -186,13 +201,17 @@ Het is mij niet gelukt om de crazy 8 te maken, ging niet zo goed ben een beetje 
  <img width="149" height="50" alt="Screenshot 2026-11-25 001215" src="https://github.com/user-attachments/assets/c39d5944-2071-4379-b2a5-64043e04caf8" />
 
  ------------
+<p><b>Sprites tekenen:</b> Verder heb ik een dark-mode versie gemaakt van al mijn sprites. Ik ben alleen nog niet helemaal blij met de kleuren keuzes dus van sommige dingen ga ik later de dark mode nog aanpassen, maar dat heeft nog geen haast.</p>
+<img width="200" height="198" alt="Screenshot 2026-11-27 075551" src="https://github.com/user-attachments/assets/ee824e08-a1d6-43f0-a476-9a6617752b70" />
+<img width="207" height="210" alt="Screenshot 2026-11-27 075624" src="https://github.com/user-attachments/assets/af21bafb-36be-4e2d-87c0-79968f31e1a6" />
+<img width="233" height="235" alt="Screenshot 2026-11-27 075607" src="https://github.com/user-attachments/assets/b0009b00-f489-466b-9a1d-ca369eafa5f3" />
 
 
 <h3>Woensdag 25 november</h3>
 
  ------------
 
- <p><b>Dark mode digital garden:</b>Door uitleg is het me nu gelukt om het als achtergrond in te stellen. Verder heb ik dark mode versies gemaakt voor al mijn illustraties (tot nu toe) ik ben alleen nog niet helemaal blij met de kleuren keuzes dus van sommige dingen ga ik later de dark mode nog aanpassen. </p>
+ <p><b>Dark mode digital garden:</b> Door uitleg is het me nu gelukt om het als achtergrond in te stellen. Ook heb ik de light en dark mode voor mijn sprites toegevoegd doormiddel van het picture element. </p>
 <img width="1917" height="927" alt="Screenshot 2026-11-25 120202" src="https://github.com/user-attachments/assets/518017d3-b15a-484d-acb1-457e26f87a07" />
 <img width="1917" height="911" alt="Screenshot 2026-11-25 120145" src="https://github.com/user-attachments/assets/dff75c93-e56b-436f-9ab4-69ab53561ed7" >
 
